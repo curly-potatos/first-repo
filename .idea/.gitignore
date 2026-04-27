@@ -8,3 +8,8 @@ build/
 *.iml
 # Editor-based HTTP Client requests
 /httpRequests/
+# .gitignore example
+*.class
+/build
+/target
+/dist
